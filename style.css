@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+}
+h1{
+color: blue;
+text-align: center;
+
+}
+p{
+font-size: 16px;
+line-height: 1.5;
+
+}
+.main-heading {
+background-color: gray;
+
+
+}
+#paragraph-1 {
+    color: green;
+}
+#paragraph-2 {
+    color: tomato;
+    margin-left: 20px;
+}
