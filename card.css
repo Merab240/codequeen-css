@@ -1,0 +1,22 @@
+body {
+background-color: rgb(158, 213, 247);
+
+}
+*{
+    margin: auto !important;
+}
+.mother {
+background-color: brown;
+width: 250px;
+height: 400px;
+padding: 50px;
+
+} 
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border:lightskyblue 5px solid;
+    box-shadow: 2px 5px 8px black
+
+}
