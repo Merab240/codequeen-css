@@ -1,0 +1,59 @@
+body {
+    background-color: blanchedalmond;
+}
+#imogi {
+width: 20px;
+height: 20px;
+
+}
+#fheading {
+    text-align: center;
+    color: pink;
+}
+#sheading {
+    text-align: center;
+    color: maroon;
+
+}
+#theading {
+    text-align: center;
+    color: maroon;
+}
+
+#photo {
+    width: 200px;
+    height: 200px;
+    margin-left: 250px;
+    border-radius: 50%;
+    border: white 2px solid;
+}
+.div1 {
+    background-color: white;
+    margin: 10px 200px;
+    padding: 10px 100px;
+     box-shadow: 5px 10px 8px gray;
+
+}
+.p {
+  margin-left: 50px;
+
+}
+.p1 {
+    text-align: center;
+}
+
+.div2 {
+    background-color: white;
+    margin: 10px 200px;
+     padding: 10px 100px;
+     box-shadow: 5px 10px 8px gray;
+}
+.div3 {
+    background-color: white;
+    margin: 10px 200px;
+    padding: 10px 100px;
+ box-shadow: 5px 10px 8px gray;
+}
+.list {
+   margin-left: 50px;
+}

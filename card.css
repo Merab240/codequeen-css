@@ -1,15 +1,18 @@
 body {
 background-color: rgb(158, 213, 247);
 
+
 }
 *{
-    margin: auto !important;
+    margin: auto;
 }
 .mother {
 background-color: brown;
 width: 250px;
 height: 400px;
 padding: 50px;
+box-shadow: 5px 10px 8px white;
+margin-top: 20px;
 
 } 
 .photo{
@@ -17,6 +20,27 @@ padding: 50px;
     width: 150px;
     border-radius: 50%;
     border:lightskyblue 5px solid;
-    box-shadow: 2px 5px 8px black
+    box-shadow: 2px 10px 8px black;
+    margin-left: 30px;
+    margin-top: 10px;
+    
 
+}
+.logo {margin-left: 90px;
+    margin-top: 20px;
+}
+.company{
+    margin: 5px 50px;
+    text-align: center;
+    
+}
+#h1{
+    color: lightskyblue;
+}
+#p2{
+    text-align: center;
+    color: white;
+}
+#slogan{
+    text-align: center;
 }
